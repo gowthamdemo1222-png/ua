@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gowthamdemo1222-png/ua/static/css/main.9ccc1284.css",
+    "main.js": "/gowthamdemo1222-png/ua/static/js/main.b6379abd.js",
+    "index.html": "/gowthamdemo1222-png/ua/index.html",
+    "main.9ccc1284.css.map": "/gowthamdemo1222-png/ua/static/css/main.9ccc1284.css.map",
+    "main.b6379abd.js.map": "/gowthamdemo1222-png/ua/static/js/main.b6379abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ccc1284.css",
+    "static/js/main.b6379abd.js"
+  ]
+}
